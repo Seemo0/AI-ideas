@@ -20,6 +20,8 @@
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
     "eventsource-parser": "^0.1.0",
+    "formik": "^2.2.9",
+    "formik-chakra-ui": "^1.6.1",
     "framer-motion": "^9.0.2",
     "next": "13.1.6",
     "openai": "^3.1.0",
