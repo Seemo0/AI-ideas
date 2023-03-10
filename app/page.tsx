@@ -119,7 +119,7 @@ export default function Home() {
               </Text>
               {" or "}
               <Text as={"span"} color={"blue.400"}>
-                Frameword
+                Framework
               </Text>
             </Heading>
           </Box>
