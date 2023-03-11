@@ -186,7 +186,7 @@ export default function Home() {
                       </>
                     )}
                     <Button type="submit" colorScheme="blue" width="full">
-                      Generate Thought
+                      Generate a Brief Summary.
                     </Button>
                   </VStack>
                 </form>
